@@ -1,0 +1,145 @@
+,timestamp,address,crew_lead,time_start,time_end,num_ppl,work_completed,time_prepping,wheelbarrows,job_difficulty,notes,job_finished
+0,2020-05-04 11:03:39,9471 big bear ave,Mack,2020-08-01 09:21:00,2020-08-01 11:01:00,9,Mulching,,47.0,1,Backs of plants mulched ,True
+1,2020-05-04 13:28:22,8443 maple leaf court,Mack,2020-08-01 11:19:00,2020-08-01 13:19:00,7,Mulching,,21.0,2,Get behind all plants,True
+2,2020-05-04 13:29:20,8443 maple leaf court,David,2020-08-01 11:16:00,2020-08-01 13:19:00,4,Mulching,10,32.0,2,,True
+3,2020-05-04 13:50:38,9471 big bear ave,David,2020-08-01 09:23:00,2020-08-01 11:09:00,4,Mulching,0,9.0,1,,True
+4,2020-05-04 16:04:53,10780 honey suckle dr,David,2020-08-01 14:38:00,2020-08-01 16:04:00,3,Mulching,2,21.0,1,,True
+6,2020-05-05 15:39:42,10333 widdington close,Mack,2020-08-01 11:20:00,2020-08-01 15:30:00,6,Mulching,,128.0,2,"Start dumping in middle of big beds, then work way to edges",False
+7,2020-05-05 15:49:25,10333 widdington close,David,2020-08-01 11:20:00,2020-08-01 15:51:00,3,Prepping and Mulching,1,67.0,3,,True
+8,2020-05-05 17:58:53,448 glenside ln,Mack,2020-08-01 04:02:00,2020-08-01 17:58:00,4,Mulching,,53.0,2,Pull weeds before Mulching,True
+9,2020-05-05 18:02:18,448 glenside ln,David,2020-08-01 16:23:00,2020-08-01 18:00:00,1,Mulching,0,0.0,2,,True
+10,2020-05-06 10:43:12,274 halverston road,David,2020-08-01 09:22:00,2020-08-01 10:42:00,4,Prepping and Mulching,10,22.0,1,,True
+11,2020-05-06 12:14:17,4638 sibel ct,Mack,2020-08-01 09:25:00,2020-08-01 11:25:00,5,Mulching,,0.0,1,,False
+13,2020-05-06 13:13:54,117 wagon trail east,David,2020-08-01 10:55:00,2020-08-01 01:13:00,4,Prepping and Mulching,10,29.0,1,,True
+14,2020-05-06 13:24:23,3480 windy forest,Mack,2020-08-01 12:09:00,2020-08-01 13:23:00,5,Mulching,,23.0,1,,True
+15,2020-05-06 16:33:25,3738 pine bank drive,David,2020-08-01 13:53:00,2020-08-01 16:32:00,4,Prepping and Mulching,15,30.0,2,,True
+16,2020-05-06 16:35:25,4638 sibel ct,Mack,2020-08-01 15:15:00,2020-08-01 16:30:00,5,Mulching,,0.0,2,,True
+18,2020-05-07 09:27:48,3706 pine bank drive,Mack,2020-08-01 08:26:00,2020-08-01 09:26:00,5,Mulching,,21.0,1,,True
+19,2020-05-07 10:21:37,3737 pine bank dr,Drew,2020-08-01 08:25:00,2020-08-01 10:15:00,5,Mulching,0,48.0,1,Great job easy ,True
+20,2020-05-07 12:05:08,7300 goldenrod ct,Drew,2020-08-01 10:22:00,2020-08-01 11:00:00,6,Mulching,0,22.0,1,Easy ,True
+21,2020-05-07 12:59:20,10560 wellington blvd,Mack,2020-08-01 09:38:00,2020-08-01 12:58:00,4,Mulching,,71.0,2,,True
+22,2020-05-07 15:25:52,8370 rutherford estates drive,Mack,2020-08-01 13:34:00,2020-08-01 15:23:00,4,Mulching,,29.0,1,,True
+23,2020-05-07 15:51:04,1450 home road,Drew,2020-08-01 12:03:00,2020-08-01 15:08:00,6,Prepping and Mulching,0.6,58.0,2,Fully clean out dirt,True
+24,2020-05-07 16:18:04,104 wagon trail,Drew,2020-08-01 15:40:00,2020-08-01 16:18:00,6,Mulching,0,15.0,1,Quick,True
+25,2020-05-07 16:43:56,1988 plains blvd,Mack,2020-08-01 15:43:00,2020-08-01 16:43:00,4,Mulching,,14.0,1,,True
+26,2020-05-07 17:01:34,4072 scenic view dr,Drew,2020-08-01 16:37:00,2020-08-01 17:02:00,6,Mulching,0,13.0,1,Smoothe,True
+29,2020-05-11 10:40:45,4440 fox path court,David,2020-08-01 09:06:00,2020-08-01 10:42:00,4,Prepping and Mulching,5,34.0,1,Used zoo brew mulch ,True
+30,2020-05-11 11:49:41,4770 cherry glen dr,Mack,2020-08-01 08:40:00,2020-08-01 11:22:00,4,Mulching,,51.0,2,Behind plants,True
+31,2020-05-11 12:18:55,7155 eventrail drive,David,2020-08-01 10:53:00,2020-08-01 12:18:00,5,Mulching,0,22.0,1,,True
+32,2020-05-11 13:44:10,7039 scioto chase blvd,Mack,2020-08-01 11:25:00,2020-08-01 13:43:00,4,Mulching,,26.0,1,,True
+33,2020-05-11 14:54:50,4456 scioto pkwy,David,2020-08-01 13:06:00,2020-08-01 14:54:00,5,Prepping and Mulching,5,34.0,2,,True
+34,2020-05-11 16:54:48,4297 scioto parkway,David,2020-08-01 14:57:00,2020-08-01 16:56:00,5,Prepping and Mulching,10,43.0,3,,True
+35,2020-05-11 16:56:12,7061 scioto chase,Mack,2020-08-01 14:28:00,2020-08-01 16:53:00,4,Mulching,,44.0,1,,True
+36,2020-05-12 09:45:22,8134 wildflower,Mack,2020-08-01 08:32:00,2020-08-01 09:43:00,4,Mulching,,20.0,1,,True
+37,2020-05-12 11:30:14,8081 millway loop,Mack,2020-08-01 09:46:00,2020-08-01 11:28:00,4,Mulching,,33.0,1,,True
+38,2020-05-12 16:43:05,8811 filiz lane,Mack,2020-08-01 12:29:00,2020-08-01 16:40:00,4,Mulching,,96.0,2,,True
+40,2020-05-12 17:09:14,4428 fox path ct,David,2020-08-01 08:35:00,2020-08-01 12:26:00,4,Mulching,0,72.0,3,,False
+41,2020-05-13 10:05:30,8545 trail lake dr,Mack,2020-08-01 08:20:00,2020-08-01 10:05:00,4,Mulching,,31.0,2,,True
+43,2020-05-13 10:15:31,123 hartfield ct,David,2020-08-01 08:32:00,2020-08-01 09:45:00,5,Prepping and Mulching,3,23.0,1,Brown ,False
+44,2020-05-13 11:47:06,128 wagon trail n,Mack,2020-08-01 10:10:00,2020-08-01 11:40:00,4,Mulching,,22.0,2,,True
+45,2020-05-13 12:33:18,4428 fox path ct,David,2020-08-01 10:26:00,2020-08-01 12:34:00,5,Prepping and Mulching,10,50.0,2,,True
+46,2020-05-13 13:27:56,4383 hickory rock dr,Mack,2020-08-01 12:05:00,2020-08-01 13:27:00,4,,,40.0,,,False
+47,2020-05-13 17:45:04,4383 hickory rock dr,Mack,2020-08-01 16:41:00,2020-08-01 17:41:00,4,Mulching,,8.0,2,,True
+49,2020-05-14 12:42:53,9411 creighton drive,David,2020-08-01 09:21:00,2020-08-01 12:42:00,5,Prepping and Mulching,3,74.0,2,Don’t forget bed in far left corner,True
+50,2020-05-14 13:44:08,2765 derby dr,David,2020-08-01 12:53:00,2020-08-01 13:42:00,5,Mulching,0,15.0,1,,True
+52,2020-05-14 16:37:46,419 wooten court south,David,2020-08-01 14:23:00,2020-08-01 16:40:00,5,Prepping and Mulching,10,53.0,2,,True
+58,2020-05-16 10:01:34,10557 stoneham,David,2020-08-01 08:45:00,2020-08-01 10:00:00,5,Mulching,0,30.0,1,Address is 10587 not 10557,True
+59,2020-05-16 12:52:00,7361 scioto chase,David,2020-08-01 10:18:00,2020-08-01 12:51:00,5,Prepping and Mulching,20,42.0,3,,True
+62,2020-05-20 11:50:42,4948 galway dr,Drew,2020-08-01 09:54:00,2020-08-01 11:48:00,5,Mulching,0,42.0,1,False,True
+63,2020-05-20 11:57:24,7410 dublin rd,David,2020-08-01 09:47:00,2020-08-01 11:56:00,4,Prepping and Mulching,10,26.0,2,HO wanted mulch around but not between iris ,True
+64,2020-05-20 13:11:56,7096 scioto parkway,David,2020-08-01 00:05:00,2020-08-01 01:11:00,4,Prepping and Mulching,10,19.0,1,,True
+65,2020-05-20 13:13:32,4158 freesia dr,Drew,2020-08-01 12:10:00,2020-08-01 13:12:00,5,Prepping and Mulching,0.5,10.0,2,Spray,True
+66,2020-05-20 17:25:11,7845 sable ct,Mack,2020-08-01 14:30:00,2020-08-01 17:15:00,5,,,12.0,,,False
+68,2020-05-20 17:37:37,7329 new point pl,David,2020-08-01 14:02:00,2020-08-01 04:23:00,4,Prepping and Mulching,10,42.0,3,Half of back beds belong to country club ,True
+70,2020-05-21 10:21:54,4960 olentangy river road,David,2020-08-01 08:30:00,2020-08-01 10:21:00,5,Prepping and Mulching,20,41.0,2,,True
+72,2020-05-21 13:54:21,3765 pine bank dr,David,2020-08-01 10:22:00,2020-08-01 01:53:00,4,Prepping and Mulching,20,24.0,2,,True
+74,2020-05-22 11:33:01,8174 wildflower dr,David,2020-08-01 09:15:00,2020-08-01 11:31:00,3,Prepping and Mulching,10,30.0,2,,True
+75,2020-05-22 12:08:42,6735 golden way,Mariano,2020-08-01 09:21:00,2020-08-01 12:08:00,3,Mulching,0,35.0,1,False,True
+76,2020-05-22 12:59:00,6336 buckman st,David,2020-08-01 11:55:00,2020-08-01 12:58:00,3,Prepping and Mulching,10,29.0,3,,False
+77,2020-05-22 17:04:48,6336 buckman st,Mariano,2020-08-01 13:21:00,2020-08-01 17:04:00,3,Mulching,0,41.0,2,False,True
+79,2020-05-22 17:56:47,6336 buckman st,David,2020-08-01 13:54:00,2020-08-01 17:08:00,3,Mulching,0,0.0,3,,True
+81,2020-05-23 09:56:06,6494 forfar lane,David,2020-08-01 08:28:00,2020-08-01 09:55:00,5,Prepping and Mulching,45,18.0,1,We mulched only the front ,True
+82,2020-05-23 12:08:19,7539 scioto parkway,David,2020-08-01 10:10:00,2020-08-01 00:07:00,4,Prepping and Mulching,5,31.0,2,Some areas (front right bed under bushes and back right bed under bush) the HO did not want mulch there,True
+89,2020-05-25 09:09:29,6416 scioto chase blvd,David,2020-08-01 08:33:00,2020-08-01 09:10:00,3,Mulching,0,9.0,1,,True
+90,2020-05-25 10:45:56,1462 shale run dr,David,2020-08-01 09:27:00,2020-08-01 10:45:00,3,Prepping and Mulching,5,17.0,2,,True
+91,2020-05-25 13:05:42,7581 polo ln,David,2020-08-01 10:59:00,2020-08-01 13:05:00,4,Prepping and Mulching,5,37.0,2,,True
+93,2020-05-25 16:36:15,659 broadsworth court,David,2020-08-01 13:50:00,2020-08-01 16:35:00,5,Prepping and Mulching,15,70.0,2,,True
+95,2020-05-26 10:05:13,58 liberty ridge dr,David,2020-08-01 08:35:00,2020-08-01 10:04:00,4,Prepping and Mulching,5,24.0,1,False mulch under trees or by train,True
+96,2020-05-26 12:06:28,2121 castlebrook drive,Other,2020-08-01 08:18:00,2020-08-01 12:05:00,4,Mulching,0,66.0,2,,True
+98,2020-05-26 13:38:16,6036 glenfinnan court,Other,2020-08-01 12:27:00,2020-08-01 13:37:00,4,Mulching,0,23.0,1,Just needs a little more touch ups,False
+99,2020-05-26 16:06:32,8558 north bluff ln,David,2020-08-01 13:14:00,2020-08-01 04:05:00,4,Prepping and Mulching,25,102.0,3,,True
+100,2020-05-26 17:12:50,6036 glenfinnan court,David,2020-08-01 16:23:00,2020-08-01 16:29:00,4,Mulching,0,0.25,1,,True
+103,2020-05-26 18:58:21,872 blackmore dr,Drew,2020-08-01 14:42:00,2020-08-01 16:46:00,5,Mulching,0,76.0,1,Just the dirt portion,True
+105,2020-05-27 11:05:32,7492 foxfield court,David,2020-08-01 08:30:00,2020-08-01 11:05:00,3,Prepping and Mulching,50,40.0,2,,True
+107,2020-05-27 13:42:19,7192 mojave st,David,2020-08-01 12:40:00,2020-08-01 01:23:00,8,Mulching,0,26.0,1,Preen ,True
+108,2020-05-27 16:13:06,7275 pueblo ct,David,2020-08-01 14:15:00,2020-08-01 16:11:00,4,Prepping and Mulching,30,27.0,1,False edging,True
+109,2020-05-27 16:49:55,1925 white oak drive,Mariano,2020-08-01 08:35:00,2020-08-01 16:49:00,4,,,126.0,,,False
+111,2020-05-28 10:49:30,7390 scioto chase blvd,David,2020-08-01 08:37:00,2020-08-01 10:49:00,4,Prepping and Mulching,26,34.0,2,False edge,True
+112,2020-05-28 13:23:17,1925 white oak drive,Mariano,2020-08-01 20:35:00,2020-08-01 01:20:00,4,Mulching,0,80.0,3,Many pine trees to get under.,True
+114,2020-05-28 14:31:31,133 ridge side drive,David,2020-08-01 11:00:00,2020-08-01 14:30:00,4,Prepping and Mulching,20,57.0,2,HO edges house himself ,True
+115,2020-05-28 17:30:59,4638 cherry glen dr,David,2020-08-01 15:18:00,2020-08-01 17:30:00,4,Prepping and Mulching,5,39.0,2,Guy wanted mulch in the whole bed in the back but wanted it to fade when it got to the very back ,True
+116,2020-05-28 18:34:05,4110 gediz dr,Mariano,2020-08-01 15:07:00,2020-08-01 17:11:00,3,,,24.0,,,False
+119,2020-05-29 10:29:17,4110 gediz dr,Mariano,2020-08-01 08:35:00,2020-08-01 10:21:00,4,Mulching,0,34.0,2,False,True
+123,2020-06-01 09:06:48,1638 wingate dr,Mariano,2020-08-01 08:27:00,2020-08-01 09:04:00,5,Mulching,0,0.0,1,False,True
+124,2020-06-01 10:29:24,1705 liberty bluff dr,Mariano,2020-08-01 09:15:00,2020-08-01 10:25:00,5,Mulching,0,28.0,1,False,True
+126,2020-06-01 13:13:00,1790 white oak dr,David,2020-08-01 08:35:00,2020-08-01 01:11:00,4,Prepping and Mulching,2.5,56.0,1,,True
+127,2020-06-01 17:46:01,7970 wingate place,Mariano,2020-08-01 13:21:00,2020-08-01 17:42:00,5,,,110.0,,,False
+129,2020-06-01 17:48:22,4491 highland meadows ct,David,2020-08-01 02:01:00,2020-08-01 05:48:00,4,Mulching,0,80.0,3,Behind fence ,True
+131,2020-06-02 09:38:51,8447 coldwater,David,2020-08-01 08:27:00,2020-08-01 09:38:00,4,Mulching,0,28.0,1,,True
+132,2020-06-02 09:54:49,7970 wingate place,Mariano,2020-08-01 08:35:00,2020-08-01 09:50:00,4,Mulching,0,17.0,1,False,True
+133,2020-06-02 11:26:43,2682 schoen lake dr,Mariano,2020-08-01 10:05:00,2020-08-01 10:36:00,4,Mulching,0,13.0,1,False,True
+134,2020-06-02 11:27:31,266 schoen lake dr,Mariano,2020-08-01 10:37:00,2020-08-01 11:23:00,4,Mulching,0,16.0,1,False,True
+135,2020-06-02 15:34:15,2140 wingate drive,David,2020-08-01 09:55:00,2020-08-01 15:33:00,4,Prepping and Mulching,3,63.0,3,hO was specific on what areas needed mulch and what could be left alone,True
+136,2020-06-02 16:53:16,5975 griffiths ln,David,2020-08-01 15:45:00,2020-08-01 16:52:00,4,Prepping and Mulching,0,0.0,1,,True
+139,2020-06-03 08:23:01,5975 griffiths ln,Mariano,2020-08-01 14:02:00,2020-08-01 16:50:00,4,Prepping and Mulching,0.5,94.0,1,False,True
+141,2020-06-03 10:24:10,1690 shale run dr,Mariano,2020-08-01 08:39:00,2020-08-01 10:23:00,4,Mulching,0,28.0,1,False,True
+143,2020-06-03 11:44:05,276 woodsfield ct,David,2020-08-01 08:23:00,2020-08-01 11:43:00,3,Mulching,0,52.0,2,,True
+145,2020-06-03 15:45:13,397 nathan dr,Mariano,2020-08-01 10:42:00,2020-08-01 15:44:00,4,Prepping and Mulching,1.5,36.0,1,False,True
+147,2020-06-03 17:14:20,7041 willow run dr,David,2020-08-01 13:01:00,2020-08-01 17:13:00,3,Prepping and Mulching,1,65.0,2,,True
+149,2020-06-04 09:54:01,872 blackmore dr,David,2020-08-01 08:37:00,2020-08-01 09:53:00,3,Mulching,0,33.0,1,,True
+152,2020-06-04 13:29:32,7545 mill road,David,2020-08-01 10:48:00,2020-08-01 13:29:00,3,,,42.0,,,False
+154,2020-06-05 10:41:17,7545 mill road,David,2020-08-01 08:38:00,2020-08-01 10:40:00,4,Mulching,0,19.0,2,,True
+155,2020-06-05 12:54:49,1350 white oak dr,David,2020-08-01 11:01:00,2020-08-01 12:54:00,4,,,27.0,,,False
+157,2020-06-05 16:00:57,5975 griffiths ln,David,2020-08-01 14:09:00,2020-08-01 16:00:00,4,Prepping and Mulching,2,9.0,1,,True
+158,2020-06-05 16:45:31,2409 tripple crown,David,2020-08-01 16:09:00,2020-08-01 16:40:00,5,Mulching,0,15.0,1,,True
+159,2020-06-05 17:29:58,2573 friesian lane,David,2020-08-01 16:50:00,2020-08-01 17:28:00,3,Mulching,0,9.0,1,,True
+160,2020-06-05 19:22:47,4528 erwing court,David,2020-08-01 18:02:00,2020-08-01 07:22:00,3,Mulching,0,28.0,2,,True
+161,2020-06-05 19:24:11,4528 erwing court,Mariano,2020-08-01 18:50:00,2020-08-01 19:20:00,3,Mulching,0,0.0,1,False,True
+162,2020-06-05 19:24:43,1350 white oak dr,Other,2020-08-01 08:45:00,2020-08-01 18:32:00,4,Prepping and Mulching,2,130.0,1,,True
+165,2020-06-08 11:07:02,3588 hickory rock,Mariano,2020-08-01 08:38:00,2020-08-01 11:04:00,4,Mulching,0,31.0,1,False,True
+167,2020-06-08 12:29:33,165 whitegate,David,2020-08-01 08:32:00,2020-08-01 12:29:00,3,Prepping and Mulching,2,56.0,2,,True
+168,2020-06-08 12:56:58,7351 scioto chase blvd,Mariano,2020-08-01 11:12:00,2020-08-01 12:50:00,4,Mulching,0,16.0,1,False,True
+169,2020-06-09 10:18:04,1161 bean oller road,Mariano,2020-08-01 14:01:00,2020-08-01 17:03:00,4,Mulching,,29.0,,,False
+170,2020-06-09 10:18:56,4427 pleasant view loop,Mariano,2020-08-01 08:50:00,2020-08-01 10:05:00,4,Mulching,0,35.0,1,False,True
+171,2020-06-09 11:55:22,1161 bean oller road,Mariano,2020-08-01 10:51:00,2020-08-01 11:52:00,4,Mulching,0,19.0,2,False,True
+173,2020-06-09 12:48:53,1560 london dr,David,2020-08-01 13:25:00,2020-08-01 15:49:00,3,,,43.0,,,False
+174,2020-06-09 12:50:02,2486 pimlico court,David,2020-08-01 08:31:00,2020-08-01 12:49:00,4,Mulching,0,0.0,2,hO has his own mulch ,True
+176,2020-06-09 15:38:31,9262 golden rose way,Mariano,2020-08-01 12:18:00,2020-08-01 15:35:00,4,Mulching,0,22.0,2,False,True
+177,2020-06-09 16:38:17,1560 london dr,David,2020-08-01 13:40:00,2020-08-01 16:37:00,3,Mulching,0,40.0,3,Wanted 2 inches away from house to prevent termites ,True
+178,2020-06-09 18:03:02,10452 rochelle dr,Mariano,2020-08-01 15:53:00,2020-08-01 17:32:00,4,Mulching,0,29.0,1,False,True
+181,2020-06-11 09:58:07,other address,David,2020-08-01 08:20:00,2020-08-01 09:56:00,3,Prepping and Mulching,5,19.0,1,,True
+182,2020-06-11 10:00:56,6744 baronet blvd,Mariano,2020-08-01 08:40:00,2020-08-01 09:58:00,4,Mulching,0,21.0,2,False,True
+184,2020-06-11 10:40:40,10418 hazelnut drive,Mariano,2020-08-01 10:08:00,2020-08-01 10:38:00,4,Mulching,0,10.0,1,False,True
+185,2020-06-11 11:09:17,5975 griffiths ln,Mariano,2020-08-01 10:49:00,2020-08-01 11:05:00,4,Mulching,0,3.5,1,False,True
+186,2020-06-11 12:07:15,3951 hickory rock dr,Mariano,2020-08-01 11:20:00,2020-08-01 00:04:00,4,Mulching,0,9.0,1,Bo,True
+187,2020-06-11 13:06:20,4504 menderes drive,David,2020-08-01 22:05:00,2020-08-01 13:05:00,3,Prepping and Mulching,10,44.0,3,,True
+189,2020-06-11 15:12:19,629 villiage park dr,David,2020-08-01 13:36:00,2020-08-01 15:11:00,3,Mulching,0,25.0,1,,True
+191,2020-06-11 15:58:52,4289 hickory rock dr,Mariano,2020-08-01 13:06:00,2020-08-01 15:55:00,4,Mulching,0,38.0,1,False,True
+193,2020-06-11 17:18:39,872 blackmore dr,Mariano,2020-08-01 16:20:00,2020-08-01 17:15:00,4,Mulching,0,24.0,1,False,True
+196,2020-06-12 12:33:03,2148 woodlands place,Mariano,2020-08-01 08:28:00,2020-08-01 12:30:00,2,Mulching,,76.0,1,False,True
+197,2020-06-12 13:07:26,2148 woodlands place,David,2020-08-01 08:28:00,2020-08-01 13:06:00,3,Prepping and Mulching,20,10.0,3,HO wants it thick ,True
+199,2020-06-12 16:35:58,2524 dauer ct,David,2020-08-01 13:22:00,2020-08-01 16:35:00,3,Mulching,0,42.0,2,,True
+201,2020-06-12 17:15:26,8767 filiz lane,Mariano,2020-08-01 13:30:00,2020-08-01 16:44:00,6,Mulching,0,66.0,2,,True
+204,2020-06-15 10:04:32,94 ravine rd,Mariano,2020-08-01 08:35:00,2020-08-01 10:02:00,4,Mulching,0,22.0,1,False,True
+206,2020-06-15 11:05:55,8935 dunn ct,David,2020-08-01 08:36:00,2020-08-01 11:05:00,3,Prepping and Mulching,1,39.0,2,Prep was removing bushes and putting in new ones,True
+207,2020-06-15 13:36:15,144 trail edge drive,David,2020-08-01 11:32:00,2020-08-01 13:35:00,3,Mulching,0,44.0,2,,True
+208,2020-06-15 15:16:45,7305 new point pl,David,2020-08-01 14:30:00,2020-08-01 15:16:00,3,Mulching,0,16.0,1,,True
+209,2020-06-15 16:44:22,455 glenside ln,Mariano,2020-08-01 10:08:00,2020-08-01 16:43:00,4,Prepping and Mulching,1,61.0,2,,True
+214,2020-06-16 09:53:08,399 wooten ct south,Mariano,2020-08-01 08:31:00,2020-08-01 09:50:00,4,Mulching,0,31.0,1,Ni,True
+216,2020-06-16 09:54:20,399 wooten ct south,David,2020-08-01 08:30:00,2020-08-01 09:54:00,3,Mulching,0,12.0,2,,True
+217,2020-06-16 10:48:04,229 leighway dr westerville,David,2020-08-01 10:15:00,2020-08-01 10:47:00,4,Mulching,0,15.0,1,,True
+218,2020-06-16 12:03:47,421 paddlewheel ct westerville,David,2020-08-01 11:00:00,2020-08-01 12:03:00,4,Mulching,0,20.0,2,,True
+220,2020-06-16 15:59:43,5418 stratford ave,David,2020-08-01 13:46:00,2020-08-01 15:57:00,4,Prepping and Mulching,30,50.0,2,,True
+225,2020-06-17 11:39:44,8210 glenmore dr,Mariano,2020-08-01 08:37:00,2020-08-01 11:36:00,5,Mulching,0,55.0,2,False,True
+233,2020-06-23 13:37:03,419 wooten court south,Drew,2020-08-01 11:11:00,2020-08-01 12:38:00,5,Mulching,0,40.0,1,,True
+235,2020-06-23 15:16:33,other address,David,2020-08-01 12:43:00,2020-08-01 15:10:00,5,Prepping and Mulching,1,29.0,2,,True

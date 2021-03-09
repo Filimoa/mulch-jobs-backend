@@ -1,0 +1,24 @@
+
+#python
+venv
+.pyc
+.ipynb
+__pycache__
+tempCodeRunnerFile.py
+
+#data
+.png
+.html
+
+#config
+config.py
+.vscode
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+mulch-jobs.code-workspace
+
+
